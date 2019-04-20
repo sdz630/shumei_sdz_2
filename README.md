@@ -37,7 +37,7 @@ private static final int DEFAULT_CAPACITY=10;
 在编译中起效果，可以看作多个类型，类似c++的模板
 
 ##### 使用
-1.泛型类<br>
-2.泛型接口<br>
+1.泛型类(可以继承）<br>
+2.泛型接口（可以多继承）<br>
 3.泛型方法<br>
 
